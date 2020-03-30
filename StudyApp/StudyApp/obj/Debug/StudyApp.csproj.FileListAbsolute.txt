@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\StudyApp\StudyApp\bin\Debug\StudyApp.exe.config
+C:\Users\Lenovo\source\repos\StudyApp\StudyApp\bin\Debug\StudyApp.exe
+C:\Users\Lenovo\source\repos\StudyApp\StudyApp\bin\Debug\StudyApp.pdb
+C:\Users\Lenovo\source\repos\StudyApp\StudyApp\bin\Debug\SmallBasicLibrary.dll
+C:\Users\Lenovo\source\repos\StudyApp\StudyApp\bin\Debug\SmallBasicLibrary.xml
+C:\Users\Lenovo\source\repos\StudyApp\StudyApp\obj\Debug\StudyApp.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\StudyApp\StudyApp\obj\Debug\StudyApp.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\StudyApp\StudyApp\obj\Debug\StudyApp.exe
+C:\Users\Lenovo\source\repos\StudyApp\StudyApp\obj\Debug\StudyApp.pdb
+C:\Users\Lenovo\source\repos\StudyApp\StudyApp\obj\Debug\StudyApp.csproj.CoreCompileInputs.cache
